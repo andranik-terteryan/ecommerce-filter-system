@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommerce-filter-system/static/css/main.eea91390.css",
+    "main.js": "/ecommerce-filter-system/static/js/main.944bad7c.js",
+    "index.html": "/ecommerce-filter-system/index.html",
+    "static/media/emptyStarIcon.svg": "/ecommerce-filter-system/static/media/emptyStarIcon.1c1c9fbda44db359ccc54b1721c577fa.svg",
+    "static/media/fullyStarIcon.svg": "/ecommerce-filter-system/static/media/fullyStarIcon.39012f48ced1c438cd4cb26ebc3fba5a.svg",
+    "main.eea91390.css.map": "/ecommerce-filter-system/static/css/main.eea91390.css.map",
+    "main.944bad7c.js.map": "/ecommerce-filter-system/static/js/main.944bad7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea91390.css",
+    "static/js/main.944bad7c.js"
+  ]
+}
